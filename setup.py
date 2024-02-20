@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='example',
-    version='0.1',
+    version='0.2',
     packages=find_packages(),  # 自動找到所有的package
     author='Jack',
     author_email='jackdyworking@example.com',
